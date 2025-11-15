@@ -84,13 +84,6 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ---
 
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
