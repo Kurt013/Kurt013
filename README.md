@@ -10,13 +10,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer who loves building innovative solutions and learning new technologies. I enjoy tackling challenging problems and contributing to open-source projects.
+I'm a passionate software developer who loves building innovative solutions and learning new technologies. I enjoy tackling challenging problems and expanding my knowledge.
 
 - 🔭 I'm currently working on exciting software projects
 - 🌱 I'm continuously learning and expanding my tech stack
 - 💡 I enjoy exploring new technologies and frameworks
-- 🎯 Goal: Contribute more to open-source projects
-- 💬 Ask me about software development, coding best practices, and technology
+- 🎯 Goal: Learn more about system design
 - 📫 How to reach me: Check out the connect section below
 - ⚡ Fun fact: Code, coffee, and continuous learning are my daily routine!
 
