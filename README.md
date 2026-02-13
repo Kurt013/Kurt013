@@ -1,7 +1,7 @@
 ## About Me
 
-I'm a student software developer focused on building efficient, user-centered applications.  
-Eager to learn and grow, I explore Figma-to-development workflows and ways to enhance user experience in web applications.
+I’m a student software developer focused on building efficient, user-centered applications, aiming to grow as a full-stack developer.
+Eager to learn and continuously improve, I explore modern development practices and technologies to build scalable, secure, and well-structured web applications across the stack.
 
 ---
 
