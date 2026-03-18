@@ -1,8 +1,8 @@
-## About Me
+## 👋 Hi, I'm Kurt Vincent Almodovar
 
-I’m a student software developer focused on building efficient, user-centered applications, aiming to grow as a full-stack developer.  
-
-Eager to learn and continuously improve, I explore modern development practices and technologies to build scalable, secure, and well-structured web applications across the stack.
+- 🔭 I’m working as a Full Stack Developer Intern at Suhay OPC, building full-stack web applications<br>
+- 📚 I'm currently learning modern technologies such as Next.js and Prisma<br>
+- ⚡ In my free time, I focus on exploring web development concepts
 
 ---
 
