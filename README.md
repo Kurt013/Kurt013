@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Kurt Vincent Almodovar
 
-- 🔭 I’m working as a Full Stack Developer Intern at Suhay OPC, building full-stack web applications<br>
-- 📚 I'm currently learning modern technologies such as Next.js and Prisma<br>
-- ⚡ In my free time, I focus on exploring web development concepts
+- 🔭 I'm a Full Stack Developer passionate about creating scalable web solutions<br>
+- 📚 I'm currently learning modern technologies such as Next.js, Nest.js, and Prisma<br>
+- ⚡ In my free time, I explore modern web development concepts and technologies
 
 ---
 
