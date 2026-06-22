@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Kurt Vincent Almodovar
 
 - 🔭 I'm a Full Stack Developer passionate about creating scalable web solutions<br>
-- 📚 I'm currently learning modern technologies such as Next.js, Nest.js, and Prisma<br>
-- ⚡ In my free time, I explore modern web development concepts and technologies
+- 📚 I'm currently learning various concept like DevOps, Java Springboot, .NET, and Nest.js by building applications and improving my past projects<br>
+- ⚡ In my free time, I explore new tech stacks and ways to improve my current skill sets.
 
 ---
 
